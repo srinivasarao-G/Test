@@ -9,6 +9,7 @@ class AreaOfCircle
          System.out.println("Enter the radius:");
          double r= s.nextDouble();
          double  area=(22*r*r)/7 ;
-         System.out.println("Area of Circle is: " + area);      
+         System.out.println("Area of Circle is: " + area);   
+         System.out.println("done");
    }
 }
